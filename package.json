@@ -1,0 +1,35 @@
+{
+  "name": "vue3-touch-gesture",
+  "version": "1.0.1",
+  "description": "A touch gesture plugin for Vue 3 using Hammer.js.",
+  "main": "lib/vue3-touch.umd.js",
+  "module": "lib/vue3-touch.es.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "dev": "vite --host",
+    "test": "jest",
+    "lib": "vite build"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "plugin",
+    "touch",
+    "gesture"
+  ],
+  "author": "钱诚",
+  "license": "MIT",
+  "dependencies": {
+    "hammerjs": "^2.0.8",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/test-utils": "^2.4.6",
+    "jest": "^29.7.0",
+    "vite": "^4.3.2",
+    "vue-jest": "^4.0.1"
+  }
+}

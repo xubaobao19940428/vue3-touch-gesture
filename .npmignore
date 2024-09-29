@@ -1,0 +1,21 @@
+# 忽略目录
+
+.DS_Store
+
+node_modules
+
+
+
+packages/
+
+public/
+
+test
+
+# 忽略指定文件
+
+vite.config.js
+
+index.html
+
+*.map
