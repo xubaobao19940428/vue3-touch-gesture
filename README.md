@@ -1,9 +1,15 @@
-<center>
 
-# vue3-touch-gesture
 
-[English](ENREADME.md) | [中文](README.md)
-</center>
+<h1 align="center">vue3-touch-gesture</h1>
+
+<p align="center">
+  🌈 <a href="./ENREADME.md">English</a>
+  &nbsp;
+  ·
+  &nbsp;
+	<a href="./README.md">中文</a>
+</p>
+
 
 `vue3-touch-gesture` 是一个基于 [Hammer.js](https://hammerjs.github.io/) 和 [Vue 3](https://v3.vuejs.org/) 的触控手势插件，支持多种手指触控操作，如平移、缩放、滑动等。该插件易于集成并提供了灵活的配置选项。
 
